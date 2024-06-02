@@ -4,6 +4,9 @@
 
 This lab involves deploying and configuring a serverless computing solution using AWS Lambda. The primary function of the Lambda setup is to generate a daily sales analysis report. This report is automatically compiled by fetching data from a database and then emailed to the specified recipients.
 
+<img width="794" alt="lambda-activity-architecture" src="https://github.com/Mohamed-kittany/Canvas-Lab-178/assets/161580792/82a259fd-7efc-4876-a45e-8f91c8a5e3ba">
+
+
 ## Steps Involved
 
 ### 1. Database Setup
